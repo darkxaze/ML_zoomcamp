@@ -9,11 +9,6 @@
 Learn machine learning engineering from regression and classification to deployment and deep learning.
 </p>
 
-<p align="center">
-<a href="https://airtable.com/shryxwLd0COOEaqXo"><img src="https://user-images.githubusercontent.com/875246/185755203-17945fd1-6b64-46f2-8377-1011dcb1a444.png" height="50" /></a>
-</p>
-
-
 ### [Module 1: Introduction to Machine Learning](01-intro/)
 
 Learn the fundamentals: what ML is, when to use it, and how to approach ML problems using the CRISP-DM framework.
